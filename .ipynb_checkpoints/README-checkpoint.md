@@ -91,7 +91,7 @@ CSVs locales
  
 ## Diagrama ERD
  
-![ERD Flights](docs/erd-flights.png)
+![ERD Flights](docs/ERD-Flights.drawio.png)
  
 ### Relaciones
  
